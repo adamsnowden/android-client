@@ -1,0 +1,78 @@
+website pass *m~@TW.+[10k
+
+
+data/items.js:294
+data/moves.js:212
+solusvm name NWubKcWzo8
+solusvm password NWubKcWzo8
+Pokemon World VPS|
+http://prntscr.com/dphc7r
+server5 http://i.ytimg.com/vi/FYWBUY0ArRs/hqdefault.jpg
+..................
+http://prntscr.com/dodic8
+VPS username > root
+VPS password >  76E%7$)_Zv@HG}PL6D
+cd /home/adam/public_html/Pokemon-World
+http://web-console.org/
+my is sqlp masterlogin47384565
+.B=Xt=pAXV*~%Rk?f{
+pokemon-world.website
+mysql pass e4dM3s577rd234d
+FBV pdns1.registrar-servers.com
+webh6374553
+xotically pandora2017
+mysql shd732udh3sa
+EmmaVEVO@fastservice.com
+............................http://images2.fanpop.com/image/photos/9900000/all-the-rare-pokemon-arceus-9959055-1024-526.jpg
+http://3.bp.blogspot.com/-njuqKYp2tU8/UCOM4_Rc9NI/AAAAAAAAByg/OJbbhXzk68U/s1600/miglior+sfondi+astrathex%20color%20whiteti+animali+gatti+cani+desktop+walpaper+occhio+memes+desktop+walpaper+fuck+yeah+world+caffe+super+mario+mare+maiale+god+of+war+4+luna+call+of+duty+ops+ragazza+ragazze+bionde++(1+(13).jpg
+Cpanel user: adam
+Cpanel password: e9;T*[02B)s&
+ERROR: http://main.pokemon-world.online/js/client-battle-tooltips.js:186: TypeError: pokemon is nul
+chat 
+https://github.com/adamsnowden/Pokemon-World-Server.git
+Details
+/home/adam/public_html/main/Pokemon-World
+npm install --server
+mysql -root -u
+sudo npm install
+sudo node server.js
+client.js
+http://redmp3.s
+
+NBP: ADBVYBCB
+Access-Control-Allow-Origin: *
+
+https://sim.psim.us/showdown/007/phstldrm/xhr
+
+systemctl
+nsA NUMBER %g:gz8eJ:}P{:LLPL{:PLPO*PU*GHRYT
+sudo adduser <username> 
+
+mysqldump -uUSERNAME -pPASSWORD DATABASE > backup.sql
+
+h8ffzKk3PcEE1gwhgwZF
+you are a wei
+ec2-35-167-20-103.us-west-2.compute.amazonaws.com
+aws password ZRKQeL%k?TR(qEZSr)@T;2CQpA4foKwS
+
+client http://main.pokemon-world.online/
+server http://151.224.60.83-8000.psim.online/ 
+
+https://www.npmjs.com/package/pokemon-showdown-api
+
+sim.pokemon-world.online	 /public_html/psim.online
+
+psim.online	 /public_html/psim.online 	sim
+
+http://prntscr.com/dwhu97
+http://prntscr.com/dwhtgd
+<?php
+$PokemonServers = array (
+  'server' =>
+  array (
+    'name' => 'A Server Of Some Kind',
+    'id' => 'server',
+    'server' => '127.0.0.1',
+    'port' => 8000,
+  ),
+);
